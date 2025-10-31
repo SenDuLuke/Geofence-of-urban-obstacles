@@ -1,5 +1,5 @@
 # Geofence-of-urban-obstacles
-This project provides a demo for creating cylindrical geofence for urban obstacles. The experimental area is set to be Melbourne, Australia.
+This project provides a demo for creating cylindrical geofence of urban obstacles. The experimental area is set to be Melbourne, Australia.
 The data required has been included in the package. You can run this program using MATLAB.
 
 # Contributors
